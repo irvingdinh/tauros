@@ -1,8 +1,6 @@
-import React from "react";
-
 export default function Page() {
   return (
-    <div>
+    <div className="p-4">
       <p>Lorem ipsum dolor sit amet</p>
     </div>
   );

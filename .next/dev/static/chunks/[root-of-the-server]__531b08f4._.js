@@ -473,17 +473,18 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx
 ;
 function Page() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "p-4",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
             children: "Lorem ipsum dolor sit amet"
         }, void 0, false, {
             fileName: "[project]/src/pages/index.tsx",
-            lineNumber: 6,
-            columnNumber: 13
+            lineNumber: 4,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/pages/index.tsx",
-        lineNumber: 5,
-        columnNumber: 9
+        lineNumber: 3,
+        columnNumber: 5
     }, this);
 }
 _c = Page;
