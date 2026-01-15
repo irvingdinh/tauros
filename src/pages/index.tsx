@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui/button.tsx";
+import { AppLayout } from "@/components/layout/app-layout.tsx";
 
 export default function Page() {
   return (
-    <div className="p-4">
-      <Button>Click me!</Button>
-    </div>
+    <AppLayout>
+      <p>Lorem ipsum dolor sit amet</p>
+    </AppLayout>
   );
 }
