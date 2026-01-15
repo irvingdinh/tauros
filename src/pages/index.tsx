@@ -1,7 +1,9 @@
+import { Button } from "@/components/ui/button.tsx";
+
 export default function Page() {
   return (
     <div className="p-4">
-      <p>Lorem ipsum dolor sit amet</p>
+      <Button>Click me!</Button>
     </div>
   );
 }
