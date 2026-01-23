@@ -29,7 +29,9 @@ export const AppSidebar = ({ ...props }: ComponentProps<typeof Sidebar>) => {
                   <AvatarFallback>ID</AvatarFallback>
                 </Avatar>
 
-                <span className="truncate font-medium">Irving Dinh</span>
+                <span className="truncate text-base font-medium">
+                  Irving Dinh
+                </span>
               </Link>
             </SidebarMenuButton>
           </SidebarMenuItem>

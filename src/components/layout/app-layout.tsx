@@ -19,7 +19,7 @@ export const AppLayout = ({ children }: { children: ReactNode }) => {
           </div>
         </header>
 
-        <div className="p-4">{children}</div>
+        <div className="mx-auto w-full max-w-5xl p-4">{children}</div>
       </SidebarInset>
     </SidebarProvider>
   );
